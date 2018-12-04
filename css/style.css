@@ -406,6 +406,15 @@ animation-delay: .8s;
 .theme-main-header.fixed .logo {
   margin-top: -8px;
 }
+.theme-main-header.fixed .logo-center {
+  display: inline-block;
+  margin: 0 auto;
+  
+}
+.theme-main-header.fixed .padding-right {
+  padding-right: 50px;
+  
+}
 .theme-main-header.fixed .padding-left{
   padding-left: 30px;
 }
