@@ -471,6 +471,10 @@ animation-delay: .8s;
   color:#292929;
   margin: 35px 0 20px 0;
 }
+#about-us .theme-title span{
+  color:#292929;
+  margin: 35px 0 20px 0;
+}
 #about-us .single-about-content a.more {
   width: 130px;
   line-height: 45px;
