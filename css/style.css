@@ -529,6 +529,11 @@ animation-delay: .8s;
 #service-section .theme-title p {
   color:#fff;
 }
+#service-section .theme-title ul li {
+  font-size: 20px;
+  font-weight: 500;
+  color: #d73e4d;
+}
 #service-section .row {
   margin: 50px 0 0 0;
 }
